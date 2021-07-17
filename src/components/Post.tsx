@@ -6,6 +6,7 @@ function Post(props: any){
         <div className="Post">
             <p> {props.text}</p>
         </div>
+        
     )
 }
 

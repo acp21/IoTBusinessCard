@@ -1,14 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { Post } from './components/Post'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
     <Post text="hello"></Post>
+    <Post text="goodbye"></Post>
   </React.StrictMode>,
   document.getElementById('root')
 );
