@@ -6,7 +6,7 @@ import { Post } from './components/Post'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Post text="hello"></Post>
+    <Post text="hello" ID="12345"></Post>
     <Post text="goodbye"></Post>
   </React.StrictMode>,
   document.getElementById('root')

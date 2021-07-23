@@ -9,3 +9,22 @@
     0 6.7px 5.3px rgba(0, 0, 0, 0.048),
     0 12.5px 10px rgba(0, 0, 0, 0.06);
 }
+
+.ID {
+    font-size: 1em;
+    font-style: italic;
+    color: rgb(177, 177, 177);
+}
+
+.MorseTitle {
+    margin-bottom: 2px;
+    font-size: .75em;
+    font-style: italic;
+    color: grey;
+}
+
+.Morse {
+    margin:0px;
+    font-size: .75em;
+    color: grey;
+}
